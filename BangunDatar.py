@@ -65,7 +65,7 @@ while True:
         break
 
     # hasil perhitungan
-    print("\n=== HASIL PERHITUNGAN ===")
+    print("\n HASIL PERHITUNGAN ")
     print("Nama          :", nama)
     print("Bangun Datar  :", nama_bangun)
     print("Keliling      :", keliling)

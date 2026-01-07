@@ -74,5 +74,5 @@ while True:
     # mengulang kemabali 
     ulang = input("\nHitung lagi? (y/n): ").lower()
     if ulang != "y":
-        print("Terima kasih 🙏")
+        print("Terima kasih ")
         break
